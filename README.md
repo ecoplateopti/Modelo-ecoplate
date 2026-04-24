@@ -39,7 +39,7 @@ EcoPlate Optimizer utiliza datos y modelos predictivos para:
 
 Vista previa del dashboard desarrollado para el análisis de demanda:
 
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](images/images/dashboard.png)
 
 🔗 **Descargar archivo Power BI (.pbix):**  
 [Haz clic aquí para descargar](./dashboard.pbix)
