@@ -135,7 +135,7 @@ Esto permite construir un modelo relacional en Power BI.
 
 ## 📥 Archivo
 
-👉 [Descargar dataset completo](./data/demanda_simulada.xlsx)
+👉 [Descargar dataset completo](data/demanda_simulada.xlsx)
 
 ## 📊 Dashboard en Power BI
 
