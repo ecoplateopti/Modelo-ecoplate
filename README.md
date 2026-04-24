@@ -233,3 +233,9 @@ Asimismo, se observa una fuerte preferencia por platos basados en pollo, seguido
 
 En conjunto, estos hallazgos con las recomendaciones ofrecidas permiten transformar la operación del restaurante hacia un modelo más eficiente, en el que se optimizan recursos, se reduce el desperdicio de alimentos y se maximiza la rentabilidad.
 
+## 👥 Equipo de trabajo
+
+Este proyecto fue desarrollado por:
+
+- **Juliana Hernández**  
+- **María Arias**
