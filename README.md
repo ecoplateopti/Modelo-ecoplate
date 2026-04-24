@@ -146,4 +146,90 @@ Vista previa del dashboard desarrollado para el análisis de demanda:
 🔗 **Descargar archivo Power BI (.pbix):**  
 [Haz clic aquí para descargar](./dashboard.pbix)
 
+📌 **Aclaración:**  
+
+En esta simulación se asume que el total de platos vendidos es igual al total de clientes.
+
+## 📊 Análisis del dashboard
+
+A partir de la visualización en Power BI, se identifican los siguientes hallazgos clave:
+
+### 💰 Ingresos y volumen de ventas
+
+- **Ingresos totales:** 59,0125 millones  
+- **Total de platos vendidos:** 3,462  
+- **Total de clientes:** 3,462  
+
+### 📅 Demanda según tipo de día
+
+- **Fin de semana:** ~60% de las ventas  
+- **Entre semana:** ~40%  
+
+📌 **Idea:**  
+La demanda aumenta significativamente en fines de semana.
+
+👉 **Recomendación:**  
+Incrementar producción y abastecimiento en fines de semana, y reducir en días de baja demanda.
+
+### 🧂 Consumo de ingredientes
+
+Ingredientes más utilizados:
+
+- arroz (~3.6 mil)  
+- ensalada (~3.6 mil)  
+- frijol (~2.0 mil)  
+- presa de pollo (~1.8 mil)  
+
+Ingredientes menos utilizados:
+
+- tofu (~0.5 mil)  
+- corte de cerdo (~0.4 mil)  
+
+📌 **Idea:**  
+Los acompañamientos básicos dominan el consumo, mientras que algunas proteínas tienen menor rotación.
+
+👉 **Recomendación:**  
+Optimizar compras enfocándose en ingredientes de alta rotación como carne y pollo y reducir inventario de baja demanda como tofu y cerdo.
+
+### 🍽️ Preferencia de platos
+
+- **Pollo** es el plato más vendido  
+- **Carne** tiene demanda intermedia  
+- **Cerdo y vegetariano** presentan menor consumo  
+
+📌 **Idea:**  
+Existe una preferencia hacia platos con pollo y carne. 
+
+👉 **Recomendación:**  
+Ajustar la producción priorizando pollo y carne, y evaluar estrategias para aumentar la demanda de opciones menos consumidas. 
+
+### 🥘 Preferencia de acompañamientos (principio)
+
+- En **pollo**, lenteja supera a frijol  
+- En **carne**, frijol domina  
+- En **cerdo**, lenteja es más frecuente  
+
+📌 **Idea:**  
+Las preferencias de acompañamiento dependen del tipo de plato.
+
+👉 **Recomendación:**  
+Preparar combinaciones optimizadas según patrones de consumo para reducir desperdicio.
+
+### 📈 Comportamiento temporal de ventas
+
+- Alta variabilidad diaria  
+- Picos de demanda hacia finales de mes  
+- Caídas en días específicos entre semana  
+
+📌 **Idea:**  
+
+La demanda no es constante, de manera que resulta util el uso de modelos predictivos. 
+
+## 🧠 Conclusión del análisis
+
+El análisis del dashboard permite evidenciar que el restaurante atendió aproximadamente 3,500 clientes durante el mes de marzo, generando ingresos aproximadamente de 60 millones de pesos, lo que refleja una operación rentable pero con oportunidades de optimización. A partir de los datos, se identifican patrones consistentes en la demanda, especialmente en función del tipo de día, donde los fines de semana presentan una mayor demanda en el consumo en comparación con los días entre semana.
+
+Asimismo, se observa una fuerte preferencia por platos basados en pollo, seguido por la carne. Por otro lado, opciones como cerdo y vegetariano presentan baja rotación, lo que implica un mayor riesgo de desperdicio. Este comportamiento impacta directamente el consumo de ingredientes, donde insumos como arroz, ensalada y frijol muestran alta demanda, mientras que otros asociados a platos menos populares tienen menor uso.
+
+En conjunto, estos hallazgos con las recomendaciones ofrecidas permiten transformar la operación del restaurante hacia un modelo más eficiente, en el que se optimizan recursos, se reduce el desperdicio de alimentos y se maximiza la rentabilidad.
 
