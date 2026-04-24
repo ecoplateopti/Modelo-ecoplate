@@ -36,3 +36,5 @@ EcoPlate Optimizer utiliza datos y modelos predictivos para:
 5. Evaluación  
 
 ## 📁 Estructura del proyecto
+
+
