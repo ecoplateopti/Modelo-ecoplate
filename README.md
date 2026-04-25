@@ -41,7 +41,6 @@ El archivo `datos_simulados.xlsx` contiene múltiples hojas que representan el f
 
 Estos datos fueron generados de forma simulada y utilizados para el análisis y visualización en Power BI.
 
-
 ## 📊 Estructura del dataset
 
 ### 1. 🧾 Ventas marzo
@@ -156,7 +155,8 @@ Vista previa del dashboard desarrollado para el análisis de demanda:
 2. Abrirlo en Power BI Desktop
 3. Conectar tus propios datos
 
-📌 **Aclaración:**  
+
+### 📌 Aclaración:
 
 En esta simulación se asume que el total de platos vendidos es igual al total de clientes.
 
