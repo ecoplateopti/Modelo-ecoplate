@@ -146,6 +146,16 @@ Vista previa del dashboard desarrollado para el análisis de demanda:
 🔗 **Descargar archivo Power BI (.pbix):**  
 [Haz clic aquí para descargar](./dashboard.pbix)
 
+## 📊 Dashboard .pbit
+
+🔗 **Descargar plantilla Power BI (.pbit):**  
+[Haz clic aquí para descargar](./dashboard.pbit)
+
+### ¿Cómo usarlo?
+1. Descargar el archivo `.pbit`
+2. Abrirlo en Power BI Desktop
+3. Conectar tus propios datos
+
 📌 **Aclaración:**  
 
 En esta simulación se asume que el total de platos vendidos es igual al total de clientes.
