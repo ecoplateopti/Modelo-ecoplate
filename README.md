@@ -55,6 +55,16 @@ Contiene la demanda diaria de clientes durante el mes de marzo.
 
 ### 2. 🍽️ Platos vendidos
 
+### Visualización menu
+
+Vista previa del menu:
+
+![Dashboard Preview](images/dashboard.pbit)
+
+🔗 **Descargar archivo Power BI (.pbix):**  
+[Haz clic aquí para descargar](./dashboard.pbix)
+
+
 Describe cuántos platos se vendieron por tipo cada día.
 
 **Variables:**
@@ -141,9 +151,6 @@ Esto permite construir un modelo relacional en Power BI.
 Vista previa del dashboard desarrollado para el análisis de demanda:
 
 ![Dashboard Preview](images/dashboard.png)
-
-🔗 **Descargar archivo Power BI (.pbix):**  
-[Haz clic aquí para descargar](./dashboard.pbix)
 
 ## 📊 Dashboard .pbit
 
