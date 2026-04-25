@@ -55,17 +55,13 @@ Contiene la demanda diaria de clientes durante el mes de marzo.
 
 ### 2. 🍽️ Platos vendidos
 
+Describe cuántos platos se vendieron por tipo cada día.
+
 ### Visualización menu
 
 Vista previa del menu:
 
-![Dashboard Preview](images/dashboard.pbit)
-
-🔗 **Descargar archivo Power BI (.pbix):**  
-[Haz clic aquí para descargar](./dashboard.pbix)
-
-
-Describe cuántos platos se vendieron por tipo cada día.
+![Dashboard Preview](images/menu.png)
 
 **Variables:**
 - `fecha`  
